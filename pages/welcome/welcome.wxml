@@ -1,0 +1,7 @@
+<view class='container'>
+  <image class='user-avatar' src='/images/4.png'></image>
+  <text class='user-name'><text style='color: green'>Hello， </text>Timofun</text>
+  <view class='moto-container' bindtap='onStartTap'>
+    <text class='moto'>开启装逼之旅</text>
+  </view>
+</view>
